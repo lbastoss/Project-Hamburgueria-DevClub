@@ -4,6 +4,7 @@ const buttonShowAll = document.querySelector('.show-all')
 
 
 function showAll() {
+    let myLi = '';
 
     menuOptions.forEach((product) => {
         myLi += `
