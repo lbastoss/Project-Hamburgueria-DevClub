@@ -97,7 +97,7 @@ li {
 }
 
 .container {
-    color: white;
+    color: black;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -107,7 +107,7 @@ li {
 }
 
 .develop {
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
