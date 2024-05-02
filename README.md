@@ -31,13 +31,28 @@ and the .reduce function to add all items and finally the filter function to sho
 <br>
 
 
+<p>
+
+<div>
+ <img alt="Home Scren" src="https://github.com/lbastoss/Project-Hamburgueria-DevClub/blob/main/img/home%20screen.png" width="500" />
+  <figcaption> <p bold >Home Screen </p> </figcaption>
+ 
+ <img alt="forEach" src="https://github.com/lbastoss/Project-Hamburgueria-DevClub/blob/main/img/button%20forEach.png" width="500" />
+  <figcaption> <p>Function forEach</p> </figcaption>
 
 
+<img alt="map" src="https://github.com/lbastoss/Project-Hamburgueria-DevClub/blob/main/img/button%20map.png" width="500" />
+  <figcaption> <p>Function map</p> </figcaption>
 
- <img align="center" src="https://github.com/lbastoss/project-jokenpo/blob/main/img/Screenshot%202024-05-01%20200300.png" width="700" align="center"/>
+  <img alt="reduce" src="https://github.com/lbastoss/Project-Hamburgueria-DevClub/blob/main/img/button%20reduce.png" width="500" />
+  <figcaption> <p>Function reduce</p> </figcaption>
+
+<img alt="filter" src="https://github.com/lbastoss/Project-Hamburgueria-DevClub/blob/main/img/button%20filter.png" width="500" />
+  <figcaption> <p>Function filter</p> </figcaption>
+
+  </div>
+  
 <br>
 <br>
  
-
-
-Deploy : https://lbastoss.github.io/project-jokenpo/
+Deploy : https://lbastoss.github.io/Project-Hamburgueria-DevClub/
