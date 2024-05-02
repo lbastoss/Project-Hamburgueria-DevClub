@@ -8,7 +8,11 @@
 }
 
 body {
-    background: rgb(51, 48, 48)
+    background: rgb(51, 48, 48);
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+
 }
 
 .container-buttons {
@@ -46,7 +50,7 @@ ul {
 
 img {
     width: 100%;
-    border-radius: 5px;
+    border-radius: 2px;
     
 }
 
@@ -55,9 +59,9 @@ p {
 }
 
 li {
-    border : 2px solid #8133ff;
+    border : 3px solid #000000;
     border-radius: 5px;
-    padding: 3px;
+    padding: 1px;
 }
 
 
@@ -71,8 +75,6 @@ li {
 
 .links-footer {
     display: flex;
-    align-items: center;
-    justify-content: center;
     gap: 10px;
    
 }
@@ -87,30 +89,18 @@ li {
 
 .social-media {
     width: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   
-    
-   
-
 }
 
-.container {
-    color: black;
+.footer-container {
     display: flex;
-    flex-shrink: 0;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 30px;
-    margin-top: 90px;
+    margin-top: auto;
+    padding: 20px;
 }
 
 .develop {
     color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 15px;
+    font-weight: bold;
 }
